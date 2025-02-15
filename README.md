@@ -1,6 +1,4 @@
-**CISSP Efficient Study & Note-Taking Plan**
 
----
 
 ### **1. Study Plan Breakdown**  
 The CISSP covers **8 domains**. To study efficiently, follow a structured plan over **60 days**.   
@@ -48,6 +46,4 @@ Use this structured format for each topic:
 4. **10 min** → Summarize key takeaways.  
 
 ---
-
-This method will help you retain information efficiently and be well-prepared for the CISSP exam. 🚀
 
