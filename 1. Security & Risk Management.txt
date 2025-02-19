@@ -1,1 +1,100 @@
 
+
+
+
+The 5 Pillars of Information Security are: 
+- Confidentiality
+- Integrity
+- Availability
+- Authenticity
+- Nonrepudiation 
+
+
+
+CIA Triad 
+- Confidentiality
+- Integrity
+- Availability
+
+
+Aspects of confidentiality include the following
+
+Sensitivity
+Discretion
+Criticality
+Concealment
+Secrecy
+Privacy
+Seclusion
+Isolation
+
+
+Aspects of integrity include the following:
+
+Accuracy
+Truthfulness
+Validity
+Accountability
+Responsibility
+Completeness
+Comprehensiveness
+
+
+
+Aspects of availability include the following:
+
+Usability
+Accessibility
+Timeliness
+
+
+
+DAD, Overprotection, Authenticity, Nonrepudiation, and AAA Services
+
+
+AAA services: 
+- authentication
+- authorization
+- accounting (or sometimes auditing)
+
+
+5 elements represent the following processes of security:
+
+Identification
+- Authentication
+- Authorization
+- Auditing
+- Accounting
+
+
+
+Protection Mechanisms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
