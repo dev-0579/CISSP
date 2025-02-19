@@ -70,23 +70,27 @@ Identification
 
 Protection Mechanisms
 
+examples of these mechanisms are:
+- Defense in depth (layering)
+- Abstraction
+- Data hiding
+- Using encryption
+
+
+
+Defense in breadth or diversity of defense is also an important related concept to defense in depth
+
+
+Abstraction
+Data Hiding
+Encryption
 
 
 
 
+Security Boundaries
 
-
-
-
-
-
-
-
-
-
-
-
-
+Evaluate and Apply Security Governance Principles
 
 
 
